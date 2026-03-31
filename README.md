@@ -88,13 +88,6 @@ open_to    : ISA research, compliance tooling, open hardware projects
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=UmerShahidengr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=1a3a5c&title_color=4fc3f7&icon_color=4fc3f7&text_color=7aa8c7"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmerShahidengr&layout=compact&langs_count=6&theme=github_dark&bg_color=0d1117&border_color=1a3a5c&title_color=4fc3f7&text_color=7aa8c7"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UmerShahidengr&theme=github-dark-blue&background=0d1117&border=1a3a5c&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7&sideLabels=7aa8c7&dates=7aa8c7)](https://github.com/UmerShahidengr)
 
 </div>
